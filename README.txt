@@ -4,6 +4,8 @@ APLICATIVO PESQUISA DE TEMA DE ANIVERSÁRIO
 
 Alunos criam uma pequena pesquisa e criam um registro de dados enviados pelos usuários do aplicativo. Esse é um exercício para aplicar habilidades de pensamento lógico e estudar preferências de usuários.
 
+Atividade ministrada pela professora Louise Lalanne.
+
 This is the README file for the app tema de aniverásario app. It's a great place to write
 down some notes about how your app works. For starters, here is some information
 about the other files in this folder.
