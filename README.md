@@ -1,4 +1,4 @@
-# pesquisatemaaniversario
+# pesquisa tema de aniversario
 APLICATIVO PESQUISA DE TEMA DE ANIVERSÁRIO
 
 Alunos criam uma pequena pesquisa e criam um registro de dados enviados pelos usuários do aplicativo. 
