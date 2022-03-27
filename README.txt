@@ -1,6 +1,5 @@
-# README for app tema de aniverásario #
-
-APLICATIVO PESQUISA DE TEMA DE ANIVERSÁRIO
+<h1 align="center">:cake: APLICATIVO PESQUISA DE TEMA DE ANIVERSÁRIO</h1>
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 
 Alunos criam uma pequena pesquisa e criam um registro de dados enviados pelos usuários do aplicativo. Esse é um exercício para aplicar habilidades de pensamento lógico e estudar preferências de usuários.
 
