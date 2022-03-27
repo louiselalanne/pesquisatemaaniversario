@@ -1,11 +1,17 @@
+<h4 align="center"> 
+    :construction:  Projeto completo!  :construction:
+</h4>
 <h1 align="center">🍰 APLICATIVO PESQUISA DE TEMA DE ANIVERSÁRIO</h1>
+
 <p align="center">
-![parte 1"](https://user-images.githubusercontent.com/100588945/160302622-b2661fc1-9957-4318-9f61-291797f39003.gif
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/100588945/160302622-b2661fc1-9957-4318-9f61-291797f39003.gif">
 </p>
+![parte 1"](
+
 Alunos criam uma pequena pesquisa e criam um registro de dados enviados pelos usuários do aplicativo. Esse é um exercício para aplicar habilidades de pensamento lógico e estudar preferências de usuários.
-<p align="center">
+
 ![parte2 ](https://user-images.githubusercontent.com/100588945/160302607-e77909b7-62e1-4417-8d14-aa6387e8c4b7.gif);
-</p>
+
 Atividade ministrada pela professora Louise Lalanne.
 
 This is the README file for the app tema de aniverásario app. It's a great place to write 
