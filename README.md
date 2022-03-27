@@ -4,7 +4,7 @@
 <h1 align="center">🍰 APLICATIVO PESQUISA DE TEMA DE ANIVERSÁRIO</h1>
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/100588945/160302622-b2661fc1-9957-4318-9f61-291797f39003.gif">
+  <img src="https://user-images.githubusercontent.com/100588945/160302622-b2661fc1-9957-4318-9f61-291797f39003.gif">
 </p>
 ![parte 1"](
 
