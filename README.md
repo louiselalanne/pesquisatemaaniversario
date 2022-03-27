@@ -6,11 +6,12 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/100588945/160302622-b2661fc1-9957-4318-9f61-291797f39003.gif">
 </p>
-![parte 1"](
 
 Alunos criam uma pequena pesquisa e criam um registro de dados enviados pelos usuários do aplicativo. Esse é um exercício para aplicar habilidades de pensamento lógico e estudar preferências de usuários.
 
-![parte2 ](https://user-images.githubusercontent.com/100588945/160302607-e77909b7-62e1-4417-8d14-aa6387e8c4b7.gif);
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/100588945/160302607-e77909b7-62e1-4417-8d14-aa6387e8c4b7.gif">
+</p>
 
 Atividade ministrada pela professora Louise Lalanne.
 
