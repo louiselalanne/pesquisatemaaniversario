@@ -4,7 +4,7 @@
 <h1 align="center">🍰 APLICATIVO PESQUISA DE TEMA DE ANIVERSÁRIO</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/100588945/160302622-b2661fc1-9957-4318-9f61-291797f39003.gif">
+  <img src="https://user-images.githubusercontent.com/100588945/160302622-b2661fc1-9957-4318-9f61-291797f39003.gif" alt="Char Bar" width="200px">
 </p>
 
 Alunos criam uma pequena pesquisa e criam um registro de dados enviados pelos usuários do aplicativo. Esse é um exercício para aplicar habilidades de pensamento lógico e estudar preferências de usuários.
