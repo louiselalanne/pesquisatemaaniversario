@@ -4,7 +4,5 @@
 </p>
     
 <p align="center">
-Alunos criam uma pequena pesquisa e criam um registro de dados enviados pelos usuários do aplicativo. Esse é um exercício para aplicar habilidades de pensamento lógico e estudar preferências de usuários.
-    </br>
-Atividade ministrada pela professora Louise Lalanne. 💙 
+App projeto para criar uma pequena pesquina e armazenar um registro de dados enviados pelos usuários do aplicativo. Esse é um exercício para aplicar habilidades de pensamento lógico e estudar preferências de usuários.
 </p>
